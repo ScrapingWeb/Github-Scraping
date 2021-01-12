@@ -1,0 +1,7 @@
+requests
+terminaltables
+colorama
+urllib
+urlopen
+treelib
+json
