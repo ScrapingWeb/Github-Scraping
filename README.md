@@ -1,13 +1,18 @@
-Github Scraping est un programe tres simple utlilisant l'api de github et ui recupere les information sous forme de tableau ou d'arbre.
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-**📑 - Installer les modules**
-```
-pip install -r requirements.txt
-```
+Github Scraping est un programe tres simple utlilisant l'api de github et ui recupere les information sous forme de tableau ou d'arbre.
 
 ----
 
-**🐧 - Lancement Linux - Windows**
+## **🛠️ Installation - Linux**
+```
+git clone https://github.com/NAOYY/Github-Scraping.git
+cd Github-Scraping
+pip install -r requirements.txt
+```
+----
+
+## **🐧 - Lancement Linux - Windows**
 ```
 py Github-Scraping.py
 ```
@@ -18,8 +23,14 @@ python3 Github-Scraping.py
 
 ----
 
+
+----
+
+## 📷 Demo
 ![alt](https://cdn.discordapp.com/attachments/798276664622317629/798488508233940992/unknown.png)
 
-Author : NAOY
-Discord : NAOY#0001 - .gg/naoy
-Github : github.com/NAOYY
+## 📝 Contact
+
+Author : NAOY  
+Discord : NAOY#0001 - .gg/naoy  
+Github : github.com/NAOYY  
