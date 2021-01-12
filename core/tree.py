@@ -21,10 +21,10 @@ def tree(github_username):
 	tree.create_node(f"\n{github_username}", 1)
 
 	tree.create_node(f"{Fore.YELLOW}Information{Fore.RESET}", 2,parent=1)
-	tree.create_node("Name     : {}".format(getgithubResult["name"]),22,parent=2)
-	tree.create_node("Location : {}".format(getgithubResult["location"]),33,parent=2)
+	tree.create_node("Name       : {}".format(getgithubResult["name"]),22,parent=2)
+	tree.create_node("Location   : {}".format(getgithubResult["location"]),33,parent=2)
 	tree.create_node("Email      : {}".format(getgithubResult["email"]),44,parent=2)
-	tree.create_node("Twitter  : {}".format(getgithubResult["twitter_username"]),55,parent=2)
+	tree.create_node("  Twitter  : {}".format(getgithubResult["twitter_username"]),55,parent=2)
 	tree.create_node("Biographie : {}".format(getgithubResult["bio"]),66,parent=2)
 	tree.create_node("Blog       : {}".format(getgithubResult["blog"]),77,parent=2)
 	tree.create_node("Followers  : {}".format(getgithubResult["followers"]),88,parent=2)
