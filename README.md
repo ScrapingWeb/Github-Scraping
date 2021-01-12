@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ----
 
 ## **🐧 - Lancement Linux - Windows**
-```
+```bash
 py Github-Scraping.py
 ```
 **Or**
