@@ -31,6 +31,5 @@ python3 Github-Scraping.py
 
 ## 📝 Contact
 
-Author : NAOY  
-Discord : NAOY#0001 - .gg/naoy  
-Github : github.com/NAOYY  
+Discord : `NAOY#0001`
+Discord Server : [.gg/naoy](https://discord.gg/naoy)
