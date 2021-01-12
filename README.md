@@ -31,5 +31,5 @@ python3 Github-Scraping.py
 
 ## 📝 Contact
 
-Discord : `NAOY#0001`
-Discord Server : [.gg/naoy](https://discord.gg/naoy)
+Mon discord : `NAOY#0001`  
+Mon server : [.gg/naoy](https://discord.gg/naoy)
