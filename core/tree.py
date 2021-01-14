@@ -4,8 +4,6 @@ import sys, os, requests
 from terminaltables import SingleTable
 import requests, re, json
 from colorama import init, Fore,  Back,  Style
-from requests import *
-from colorama import *
 import urllib
 import os
 from urllib.request import Request, urlopen
